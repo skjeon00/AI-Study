@@ -15,14 +15,16 @@
 - X / y 데이터 형태
   - 초당 수십 번씩 파동하는 복잡한 센서 신호 > 분석하기 좋게 미리 *561개의 특징(Features)*으로 가공해둔 상태
   - ex. avg, max, min ... > 숫자들이 한 세트가 되어서 > 이 신호는 '걷기'이다.
-
- 
+<br>
+<br>
+<br>
 # **Model**
 - CNN
 - RNN
 - LSTM
-
-
+<br>
+<br>
+<br>
 # **'SITTING' / 'STANDING' 분류가 명확히 되지 않는 이유**
 "UCI HAR dataset의 한계"
 1. SITTING과 STANDING의 유사성 : 둘 다 신체의 움직임이 거의 없는 '정적 활동'임.
