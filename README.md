@@ -23,9 +23,11 @@
 - LSTM
 
 
-# **SITTING / STANDING 분류가 명확히 되지 않는 이유**
-1. SITTING과 STANDING의 공통점 : 둘 다 신체의 움직임이 거의 없는 'Static 정적 활동'임.
-   - 자이로스코프(회전센서) : 둘 다 움직임이 없기 때문에 모두 0에 가까운 값
-   - Gravity(중력가속도) : 둘 다 정적인 상태에서 비슷한 각도로 놓여 있다면 가속도계 값(X, Y, Z축)이 사실상 동일
-2. 둘을 명확히 구분할 수 있는 추가 정보 필요
-   - ex. 의자에 앉았는지 확인하는 압력 센서 등
+# **'SITTING' / 'STANDING' 분류가 명확히 되지 않는 이유**
+"UCI HAR dataset의 한계"
+1. SITTING과 STANDING의 유사성 : 둘 다 신체의 움직임이 거의 없는 '정적 활동'임.
+2. 둘을 명확히 구분할 수 있는 추가 정보 필요 (ex. 의자에 앉았는지 확인하는 압력 센서 등)
+3. SITTING의 높은 변동성 (High Variance)
+   - 좁게 밀집된 영역도 있지만, 그래프 왼쪽으로 길게 퍼져 있거나 위아래로 넓게 흩어져 있는 점들이 꽤 많음.
+   - 이는 'SITTING' 행동이 사람마다(앉는 방식 등) 혹은 센서가 부착된 각도에 따라 센서 데이터의 편차가 매우 크다는 것을 의미
+<img width="1149" height="883" alt="image" src="https://github.com/user-attachments/assets/b05b9d0f-e9e1-45e7-b567-dae644a143f4" />
