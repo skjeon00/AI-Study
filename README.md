@@ -17,14 +17,14 @@
   - ex. avg, max, min ... > 숫자들이 한 세트가 되어서 > 이 신호는 '걷기'이다.
 <br>
 <br>
-<br>
+
 # **Model**
 - CNN
 - RNN
 - LSTM
 <br>
 <br>
-<br>
+  
 # **'SITTING' / 'STANDING' 분류가 명확히 되지 않는 이유**
 "UCI HAR dataset의 한계"
 1. SITTING과 STANDING의 유사성 : 둘 다 신체의 움직임이 거의 없는 '정적 활동'임.
