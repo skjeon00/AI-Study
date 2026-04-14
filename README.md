@@ -30,4 +30,4 @@
 3. SITTING의 높은 변동성 (High Variance)
    - 좁게 밀집된 영역도 있지만, 그래프 왼쪽으로 길게 퍼져 있거나 위아래로 넓게 흩어져 있는 점들이 꽤 많음.
    - 이는 'SITTING' 행동이 사람마다(앉는 방식 등) 혹은 센서가 부착된 각도에 따라 센서 데이터의 편차가 매우 크다는 것을 의미
-<img width="766" height="589" alt="image" src="https://github.com/user-attachments/assets/b05b9d0f-e9e1-45e7-b567-dae644a143f4" />
+<img style="width: 66.6%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/b05b9d0f-e9e1-45e7-b567-dae644a143f4" />
