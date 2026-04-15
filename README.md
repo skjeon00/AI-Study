@@ -26,7 +26,9 @@
 <br>
 <br>
 
+
 ---
+< Result Analysis >
   
 # **'SITTING' / 'STANDING' 분류가 명확히 되지 않는 이유**
 "UCI HAR dataset의 한계"
