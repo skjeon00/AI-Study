@@ -1,5 +1,5 @@
 # **Datasets**
-- UCI HAR (Human Activity Recognition)
+# < UCI HAR (Human Activity Recognition) >
 - 무엇을 측정한 데이터인가?
   - 사람이 스마트폰을 허리에 착용하고 6가지 동작을 수행했을 때, 폰 안에 들어있는 두 가지 핵심 센서의 값을 기록한 데이터
   - Accelerometer : 가속도 센서 (움직임의 세기, 중력의 방향, 급격한 속도 변화 등)
