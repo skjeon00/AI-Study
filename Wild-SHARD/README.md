@@ -6,7 +6,7 @@
 - 맞춰야 할 정답(Label)은?
   - 목표: 딥러닝 모델(CNN 등)을 사용하여 복잡한 센서 신호로부터 사람의 6가지 주요 행동을 자동으로 분류
   - 분류: Downstairs, Running, Sitting, Standing, Upstairs, Walking
-- 사용할 주요 데이터 요소
+- 사용할 주요 데이터 요소는?
   - X: '가속도'와 '자이로' 센서 값 + 'Magnitude' (Feature Engineering)
   - y: 'activity'
 <br>
