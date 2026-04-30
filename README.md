@@ -1,5 +1,5 @@
 # **AI-Study**
-- Variants_of_CNN
+- Variants of CNN
   
 <br>
 
