@@ -1,5 +1,6 @@
 # **AI-Study**
-- Variants of CNN
+- Variants of CNN (ing)
+- Skip Connection 잔차연결 (ing)
   
 <br>
 
