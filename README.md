@@ -1,6 +1,7 @@
 # **AI-Study**
+- Contrastive SSL (Representation Learning, SSL, Fine-tuning, Contrastive Learning, Contrastive SSL) <br>
+  https://www.notion.so/Contrastive-SSL-35834f676384806bbd50edfa28368936?source=copy_link
 - Variants of CNN (ing)
-- Skip Connection 잔차연결 (ing)
   
 <br>
 
