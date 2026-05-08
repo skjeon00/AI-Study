@@ -13,6 +13,6 @@ https://www.notion.so/Innovative-Dual-Decoupling-CNN-With-Layer-Wise-Temporal-Sp
 
 <br>
 
-**Issue & Thinking**
-- '모른다'라는 개념을 알려주다.
+# **Issue & Thinking**
+- '모른다'라는 개념을 알려주다. <br>
 https://www.notion.so/35a34f676384802d976cfa44efd1da61?source=copy_link
