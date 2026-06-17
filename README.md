@@ -12,6 +12,8 @@ https://www.notion.so/Human-Activity-Recognition-via-Temporal-Fusion-Contrastive
 https://www.notion.so/Innovative-Dual-Decoupling-CNN-With-Layer-Wise-Temporal-Spatial-Attention-for-Sensor-Based-Human-Act-35734f676384807bbadcc3aa9c4802f8?source=copy_link
 - InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link
+- Robust Sensor-Based Activity Recognition Via Physics Aware Disentangled Representation Learning and Featurewise Linear Modulation Conditioning <br>
+https://www.notion.so/Robust-Sensor-Based-Activity-Recognition-Via-Physics-Aware-Disentangled-Representation-Learning-and--37c34f67638480aeb7f0da626e409ead?source=copy_link
 
 <br>
 
