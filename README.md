@@ -8,6 +8,8 @@
 # **Paper Analysis**
 - Robust Sensor-Based Activity Recognition Via Physics Aware Disentangled Representation Learning and Featurewise Linear Modulation Conditioning <br>
 https://www.notion.so/Robust-Sensor-Based-Activity-Recognition-Via-Physics-Aware-Disentangled-Representation-Learning-and--37c34f67638480aeb7f0da626e409ead?source=copy_link
+- Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition <br>
+https://app.notion.com/p/Prototype-Guided-Physics-Modulated-Perceiver-for-Human-Activity-Recognition-37c34f6763848085a3e5e4bd62af4149?source=copy_link
 - InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link
 - Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
