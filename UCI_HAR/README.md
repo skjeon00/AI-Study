@@ -18,10 +18,11 @@
 <br>
 
 # **Model**
-- CNN
+- CNN (Resnet, SEnet, CBAM)
 - RNN
 - LSTM
 - GRU
+- Transformer
 <br>
 <br>
 
