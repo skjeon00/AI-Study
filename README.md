@@ -1,7 +1,8 @@
 # **AI-Study**
+- 딥러닝 Advanced AI를 위한 FAQ <br>
+https://app.notion.com/p/Advanced-AI-FAQ-38434f676384800ca87cee7d85cffbb5?source=copy_link
 - Contrastive SSL (Representation Learning, SSL, Fine-tuning, Contrastive Learning, Contrastive SSL) <br>
   https://www.notion.so/Contrastive-SSL-35834f676384806bbd50edfa28368936?source=copy_link
-- Variants of CNN (ing)
   
 <br>
 
