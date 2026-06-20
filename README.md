@@ -20,6 +20,6 @@ https://www.notion.so/Innovative-Dual-Decoupling-CNN-With-Layer-Wise-Temporal-Sp
 
 <br>
 
-# **Issue & Thinking**
+# **Thinking & Memo**
 - 할루시네이션 방지를 위한 '모름' 학습 <br>
 https://www.notion.so/35a34f676384802d976cfa44efd1da61?source=copy_link
