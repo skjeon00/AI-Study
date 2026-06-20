@@ -3,6 +3,8 @@
 https://app.notion.com/p/Advanced-AI-FAQ-38434f676384800ca87cee7d85cffbb5?source=copy_link
 - Contrastive SSL (Representation Learning, SSL, Fine-tuning, Contrastive Learning, Contrastive SSL) <br>
   https://www.notion.so/Contrastive-SSL-35834f676384806bbd50edfa28368936?source=copy_link
+- Latent space <br>
+  https://app.notion.com/p/Latent-Space-38534f67638480298793cb3da083644e?source=copy_link
   
 <br>
 
