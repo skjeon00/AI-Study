@@ -13,7 +13,7 @@ https://app.notion.com/p/Advanced-AI-FAQ-38434f676384800ca87cee7d85cffbb5?source
 # **Paper Analysis**
 - Robust Sensor-Based Activity Recognition Via Physics Aware Disentangled Representation Learning and Featurewise Linear Modulation Conditioning <br>
 https://www.notion.so/Robust-Sensor-Based-Activity-Recognition-Via-Physics-Aware-Disentangled-Representation-Learning-and--37c34f67638480aeb7f0da626e409ead?source=copy_link
-- (ing) Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition <br>
+- Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition <br>
 https://app.notion.com/p/Learning-Disentangled-Behaviour-Patterns-for-Wearable-based-Human-Activity-Recognition-38534f67638480ccbc03cec0508f0685?source=copy_link
 - Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition <br>
 https://app.notion.com/p/Prototype-Guided-Physics-Modulated-Perceiver-for-Human-Activity-Recognition-37c34f6763848085a3e5e4bd62af4149?source=copy_link
