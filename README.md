@@ -17,9 +17,9 @@ https://www.notion.so/Robust-Sensor-Based-Activity-Recognition-Via-Physics-Aware
 https://app.notion.com/p/Learning-Disentangled-Behaviour-Patterns-for-Wearable-based-Human-Activity-Recognition-38534f67638480ccbc03cec0508f0685?source=copy_link
 - Prototype-Guided Physics-Modulated Perceiver for Human Activity Recognition <br>
 https://app.notion.com/p/Prototype-Guided-Physics-Modulated-Perceiver-for-Human-Activity-Recognition-37c34f6763848085a3e5e4bd62af4149?source=copy_link
-- InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
+- (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link
-- Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
+- (ing) Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
 https://www.notion.so/Human-Activity-Recognition-via-Temporal-Fusion-Contrastive-Learning-TFCL-35234f676384804fb911fd798e1c3332?source=copy_link
 
 <br>
