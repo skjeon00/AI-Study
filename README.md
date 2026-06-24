@@ -23,7 +23,7 @@ https://app.notion.com/p/AHAR-Adaptive-CNN-for-Energy-Efficient-Human-Activity-R
 https://app.notion.com/p/Do-we-need-early-exit-networks-in-human-activity-recognition-38834f67638480a99a31ed8f564bcce1?source=copy_link
 <br>
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
-https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link
+https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link <br>
 - (ing) Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
 https://www.notion.so/Human-Activity-Recognition-via-Temporal-Fusion-Contrastive-Learning-TFCL-35234f676384804fb911fd798e1c3332?source=copy_link
 
