@@ -19,6 +19,9 @@ https://app.notion.com/p/Learning-Disentangled-Behaviour-Patterns-for-Wearable-b
 https://app.notion.com/p/Prototype-Guided-Physics-Modulated-Perceiver-for-Human-Activity-Recognition-37c34f6763848085a3e5e4bd62af4149?source=copy_link
 - AHAR : Adaptive CNN for Energy-Efficient Human Activity Recognition in Low-Power Edge Devices <br>
 https://app.notion.com/p/AHAR-Adaptive-CNN-for-Energy-Efficient-Human-Activity-Recognition-in-Low-Power-Edge-Devices-38834f67638480b3894ffaa6ff90664d?source=copy_link
+- Do we need early exit networks in human activity recognition? <br>
+https://app.notion.com/p/Do-we-need-early-exit-networks-in-human-activity-recognition-38834f67638480a99a31ed8f564bcce1?source=copy_link
+<br>
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link
 - (ing) Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
