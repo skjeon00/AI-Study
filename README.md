@@ -7,6 +7,8 @@ https://app.notion.com/p/Advanced-AI-FAQ-38434f676384800ca87cee7d85cffbb5?source
   https://app.notion.com/p/Latent-Space-38534f67638480298793cb3da083644e?source=copy_link
 - End-to-End <br>
   https://app.notion.com/p/End-to-End-38534f676384802fb999e445b57eb0d4?source=copy_link
+- Sensor-based HAR (Domain study) <br>
+  https://app.notion.com/p/HAR-38b34f67638480849e68c6451b7d8168?source=copy_link
   
 <br>
 
