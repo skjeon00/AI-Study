@@ -27,6 +27,8 @@ https://app.notion.com/p/Do-we-need-early-exit-networks-in-human-activity-recogn
 https://app.notion.com/p/P-Mix-A-Data-Augmentation-Method-for-Contrastive-Learning-Based-Human-Activity-Recognition-38b34f6763848024b565dceab8878320?source=copy_link
 - Similarity Segmentation Approach for Sensor-Based Activity Recognition <br>
 https://app.notion.com/p/Similarity-Segmentation-Approach-for-Sensor-Based-Activity-Recognition-38d34f67638480b386dfd5a4ff60f628?source=copy_link
+- DisCovHAR: Contrastive Attention for Human Activity Recognition Under Distribution Shifts <br>
+https://app.notion.com/p/DisCovHAR-Contrastive-Attention-for-Human-Activity-Recognition-Under-Distribution-Shifts-39234f676384802dbbbfddbc783f2687?source=copy_link
 <br>
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link <br>
