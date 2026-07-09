@@ -31,7 +31,6 @@ https://app.notion.com/p/Similarity-Segmentation-Approach-for-Sensor-Based-Activ
 https://app.notion.com/p/DisCovHAR-Contrastive-Attention-for-Human-Activity-Recognition-Under-Distribution-Shifts-39234f676384802dbbbfddbc783f2687?source=copy_link
 - Negative Selection by Clustering for Contrastive Learning in HAR <br>
 https://app.notion.com/p/Negative-Selection-by-Clustering-for-Contrastive-Learning-in-HAR-38d34f676384801b85c8e9d683b188ca?source=copy_link
-<br>
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link <br>
 - (ing) Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
