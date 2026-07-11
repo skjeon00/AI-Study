@@ -39,6 +39,8 @@ https://app.notion.com/p/Physically-Plausible-Data-Augmentations-for-Wearable-IM
 https://app.notion.com/p/Cross-Attention-Enhanced-Pyramid-Multi-Scale-Networks-for-Sensor-Based-HAR-38d34f67638480519a0ff734a4e0e59d?source=copy_link
 - (ing) ActiFormer: Sign-Aware Linear Attention for Sensor-Based HAR <br>
 https://app.notion.com/p/ActiFormer-Sign-Aware-Linear-Attention-for-Sensor-Based-HAR-38d34f6763848014a0fcfdaad902d7db?source=copy_link
+- (ing) TransHAR: Toward Intent-Aware Transformer-Based HAR in Intelligent IoT Communication Systems <br>
+https://app.notion.com/p/TransHAR-Toward-Intent-Aware-Transformer-Based-HAR-in-Intelligent-IoT-Communication-Systems-38d34f67638480da8f14d167d4a7535d?source=copy_link
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link <br>
 - (ing) Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
