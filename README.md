@@ -33,7 +33,7 @@ https://app.notion.com/p/DisCovHAR-Contrastive-Attention-for-Human-Activity-Reco
 https://app.notion.com/p/Negative-Selection-by-Clustering-for-Contrastive-Learning-in-HAR-38d34f676384801b85c8e9d683b188ca?source=copy_link
 - Temporal Contrastive Learning for Sensor-Based HAR: A Self-Supervised Approach <br>
 https://app.notion.com/p/Temporal-Contrastive-Learning-for-Sensor-Based-HAR-A-Self-Supervised-Approach-38d34f67638480b88e18cde248d48014?source=copy_link
-- (ing) Physically Plausible Data Augmentations for Wearable IMU-Based HAR Using Physics Simulation <br>
+- Physically Plausible Data Augmentations for Wearable IMU-Based HAR Using Physics Simulation <br>
 https://app.notion.com/p/Physically-Plausible-Data-Augmentations-for-Wearable-IMU-Based-HAR-Using-Physics-Simulation-38d34f67638480c097e5ca80f17f8a89?source=copy_link
 - (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://www.notion.so/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-35c34f676384801482dfd98ef52bacfd?source=copy_link <br>
