@@ -37,7 +37,7 @@ https://app.notion.com/p/Temporal-Contrastive-Learning-for-Sensor-Based-HAR-A-Se
 https://app.notion.com/p/Physically-Plausible-Data-Augmentations-for-Wearable-IMU-Based-HAR-Using-Physics-Simulation-38d34f67638480c097e5ca80f17f8a89?source=copy_link
 - Cross-Attention Enhanced Pyramid Multi-Scale Networks for Sensor-Based HAR <br>
 https://app.notion.com/p/Cross-Attention-Enhanced-Pyramid-Multi-Scale-Networks-for-Sensor-Based-HAR-38d34f67638480519a0ff734a4e0e59d?source=copy_link
-- (ing) ActiFormer: Sign-Aware Linear Attention for Sensor-Based HAR <br>
+- ActiFormer: Sign-Aware Linear Attention for Sensor-Based HAR <br>
 https://app.notion.com/p/ActiFormer-Sign-Aware-Linear-Attention-for-Sensor-Based-HAR-38d34f6763848014a0fcfdaad902d7db?source=copy_link
 - (ing) TransHAR: Toward Intent-Aware Transformer-Based HAR in Intelligent IoT Communication Systems <br>
 https://app.notion.com/p/TransHAR-Toward-Intent-Aware-Transformer-Based-HAR-in-Intelligent-IoT-Communication-Systems-38d34f67638480da8f14d167d4a7535d?source=copy_link
