@@ -47,6 +47,8 @@ https://app.notion.com/p/InverseTime-A-Self-Supervised-Technique-for-Semi-Superv
 https://app.notion.com/p/TFCL-Human-Activity-Recognition-via-Temporal-Fusion-Contrastive-Learning-39d34f676384801299b3f01d4a99dbb0?source=copy_link
 - LIDB-CA: Human Activity Semantic Modeling via Multi-IMU Fusion and Cross Transformer <br>
 https://app.notion.com/p/LIDB-CA-Human-Activity-Semantic-Modeling-via-Multi-IMU-Fusion-and-Cross-Transformer-38d34f67638480838b5af6741aef72fc?source=copy_link
+- (ing) SCAGOT: Semi-Supervised Disentangling Context and Activity Features Without Target Data for Sensor-Based HAR <br>
+https://app.notion.com/p/SCAGOT-Semi-Supervised-Disentangling-Context-and-Activity-Features-Without-Target-Data-for-Sensor-B-39a34f6763848000b3d9fc48b87192b5?source=copy_link
 
 <br>
 
