@@ -41,7 +41,7 @@ https://app.notion.com/p/Cross-Attention-Enhanced-Pyramid-Multi-Scale-Networks-f
 https://app.notion.com/p/ActiFormer-Sign-Aware-Linear-Attention-for-Sensor-Based-HAR-38d34f6763848014a0fcfdaad902d7db?source=copy_link
 - (ing) TransHAR: Toward Intent-Aware Transformer-Based HAR in Intelligent IoT Communication Systems <br>
 https://app.notion.com/p/TransHAR-Toward-Intent-Aware-Transformer-Based-HAR-in-Intelligent-IoT-Communication-Systems-38d34f67638480da8f14d167d4a7535d?source=copy_link
-- (ing) InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
+- InverseTime: A Self-Supervised Technique for Semi-Supervised Classification of Time Series <br>
 https://app.notion.com/p/InverseTime-A-Self-Supervised-Technique-for-Semi-Supervised-Classification-of-Time-Series-39e34f676384806380fbea66c8729ca7?source=copy_link
 - Human Activity Recognition via Temporal Fusion Contrastive Learning (TFCL) <br>
 https://app.notion.com/p/TFCL-Human-Activity-Recognition-via-Temporal-Fusion-Contrastive-Learning-39d34f676384801299b3f01d4a99dbb0?source=copy_link
