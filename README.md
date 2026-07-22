@@ -49,6 +49,8 @@ https://app.notion.com/p/TFCL-Human-Activity-Recognition-via-Temporal-Fusion-Con
 https://app.notion.com/p/LIDB-CA-Human-Activity-Semantic-Modeling-via-Multi-IMU-Fusion-and-Cross-Transformer-38d34f67638480838b5af6741aef72fc?source=copy_link
 - (ing) SCAGOT: Semi-Supervised Disentangling Context and Activity Features Without Target Data for Sensor-Based HAR <br>
 https://app.notion.com/p/SCAGOT-Semi-Supervised-Disentangling-Context-and-Activity-Features-Without-Target-Data-for-Sensor-B-39a34f6763848000b3d9fc48b87192b5?source=copy_link
+- (ing) PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer <br>
+https://app.notion.com/p/PADRe-A-Unifying-Polynomial-Attention-Drop-in-Replacement-for-Efficient-Vision-Transformer-3a534f6763848090ba94d5e0b469f252?source=copy_link
 
 <br>
 
